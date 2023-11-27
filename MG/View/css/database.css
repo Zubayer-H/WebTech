@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+
+
+
+
+
+.mainContainer{
+	height: 600px;
+	color: black;
+}
+.header{
+	
+	background: lightblue;
+	color: blue;
+	height: 150px;
+
+
+}
+
+.sideNav{
+	float: left;
+	width: 200px;
+	height: 600px;
+	 
+}
+.mainContent{
+	float: right;
+	background: white;
+	color: black;
+	height: 600px;
+	width: 800px;
+
+}
+.att{
+	background: violet;
+	height: 60px;
+	width: 120px;
+
+}
+.pro{
+    background: slateblue;
+	height: 60px;
+	width: 120px;
+}
+.adem{
+	background: orange;
+	height: 60px;
+	width: 120px;
+
+}
+.upem{
+	background: gray;
+	height: 60px;
+	width: 120px;
+
+}
+
+
+.dlem{
+	background: tomato;
+	height: 60px;
+	width: 120px;
+
+}
+.sal{
+    background: mediumseagreen;
+	height: 60px;
+	width: 120px;
+}
+.logout{
+    background: dodgerblue;
+	height: 60px;
+	width: 120px;
+}
